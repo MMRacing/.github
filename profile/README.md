@@ -1,5 +1,5 @@
 
-![Alt text](https://github.com/MMRacing/Assets/blob/4b97090e1fb488f6b0483bfe33456ab9a0e51824/Logos/logoYellowTrans.png)
+![Alt text](https://github.com/MMRacing/Github-Images/blob/4b56a30dbaa3227a59b5c377616fc223422cc8a4/logoB%26WYell.png)
 
 # 🏍️ **MMRacing — Engineering Excellence for Performance Motorcycles**
 ### *Proprietary Research, Development, and Product Engineering*
@@ -24,7 +24,7 @@ Our work spans:
 We combine modern engineering methodologies with deep mechanical experience, building advanced technology platforms for machines such as the **Yamaha YZF750R** and **Yamaha R1 5PW**.
 
 ---
-![Alt text]([https://github.com/MMRacing/Assets/blob/1eaa07a45c1d4ad4142539951c8d74c9b5182de6/Logos/ApexSenseLogoTEXTSmall.png](https://github.com/MMRacing/Github-Images/blob/38a0d6682bac5abbef7ae86c7b28b277fc26f1b3/ApexSenseLogoTEXTSmall.png))
+![Alt text](https://github.com/MMRacing/Github-Images/blob/4b56a30dbaa3227a59b5c377616fc223422cc8a4/ApexSenseLogoTEXTSmall.png)
 
 ## 🚀 **Flagship Project: ApexSense™ AS1**
 
